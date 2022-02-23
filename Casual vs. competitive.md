@@ -18,7 +18,7 @@ This might mean a cEDH deck, but it doesn't have to because everything is relati
 
 ## Casual
 
-In contrast, casual players first and foremost want to create a fun game. Competitive players obviously want to have fun as well, but they take for granted that the game will be fun when played competitively (which it can be).
+In contrast, casual players first and foremost want to create a fun game. Competitive players obviously want to have fun as well, but they take for granted that the game will be fun when played competitively (which it can be but often isn't; even cEDH players have designed alternate formats).
 
 For a casual player deckbuilding is a *game design* concern. Game players try to win; game designers try to make playing fun and interesting. Of course, Magic has actual game designers who create the cards and write the rules. But, the fact that deckbuilding drastically shapes the experience of the game means that each player also has substantial agency in this. 
 
