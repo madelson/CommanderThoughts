@@ -12,7 +12,7 @@ However, the larger problem with focusing on power levels is that they look at t
 
 ## Competitive
 
-The competitive mindset is very easy to define. With a competitive approach, deckbuilding is effectively an extension of gameplay. Your goal is to win, so you should come prepared with the strongest deck you can. 
+The competitive mindset is easy to define. With a competitive approach, deckbuilding is effectively an extension of gameplay. Your goal is to win, so you should come prepared with the strongest deck you can. 
 
 This might mean a cEDH deck, but it doesn't have to because everything is relative. If you bring your decks to the edge of what your playgroup will tolerate strength-wise, you are using a competitive mindset. If you try to build a deck at the top of a particular power level, that is a competitive mindset. If your main goal in deckbuilding is winning more often, that is a competitive mindset.
 
