@@ -1,8 +1,8 @@
 # Restricted Commander
 
-Restricted commander is a sub-format of commander with the goal of raising the odds that players with different expectations, interests, and deck-building philosophies can enjoy a game of Commander together compared to the default format rules. We attempt to achieve this through a greatly-expanded and more opinionated banned and restricted list. 
+Restricted commander is a sub-format of Commander with the goal of raising the odds that players with different expectations, interests, and deck-building philosophies can enjoy a game of Commander together compared to the default format rules. We attempt to achieve this through a greatly-expanded and more opinionated banned and restricted list. 
 
-## What does it mean for a card to be restricted? Isn't commander already a singleton format?
+## What does it mean for a card to be restricted? Isn't Commander already a singleton format?
 
 "Restricted" in other formats means that you can only play one copy of that card in your deck instead of the usual four. That doesn't apply in Commander.
 
@@ -13,7 +13,7 @@ Instead, the meaning of restricted here is:
 
 ## Why use the restricted concept?
 
-Bannings are frustrating because they will always upset some players who built decks around or purchased the now-banned card. In contrast, restrictions upholds the idea that commander is a format where you can play most of the cards in your collection and in Magic's history. Some of the cards on the restricted list can be very frustrating to play against, and for many players make the game less fun overall. The hope is that by restricting to one such card per deck the impact of these cards on the format is greatly reduced.
+Bannings are frustrating because they will always upset some players who built decks around or purchased the now-banned card. In contrast, restrictions upholds the idea that Commander is a format where you can play most of the cards in your collection and in Magic's history. Some of the cards on the restricted list can be very frustrating to play against, and for many players make the game less fun overall. The hope is that by restricting to one such card per deck the impact of these cards on the format is greatly reduced.
 
 The inclusion of Sol Ring in this list means that there is one very powerful restricted card that is widely accessible and fits into essentially any deck. As a result, no one should feel disadvantaged because their deck doesn't have a restricted card.
 
