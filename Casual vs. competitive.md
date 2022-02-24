@@ -4,7 +4,7 @@ For me, the biggest flaw of the Commander format is that I can't sit down with a
 
 ## The problem with power levels
 
-Frequently people will try to draw distinctions between casual and competitive Commander. Frequently, these distinctions focus on power level. The idea is that we can slot decks into power levels and create fun games when people play in a pod with all decks at the same level. 
+Frequently people will try to draw distinctions between casual and competitive Commander. Typically, these distinctions focus on power level. The idea is that we can slot decks into power levels and create fun games when people play in a pod with all decks at the same level. 
 
 This idea has a few problems. One is that Magic is so flexible that power levels are very difficult to define. One can focus on fundamentals like quality of ramp and draw, utilization of the strongest strategies like instant win combos, or inclusion of broken individual cards. Power levels have to be fine-grained enough to bring decks to the same place but coarse-grained enough so that players can actually maintain decks at different levels. 
 
