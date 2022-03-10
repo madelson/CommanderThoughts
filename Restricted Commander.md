@@ -251,7 +251,7 @@ Restricted mainly due to their scarcity and price combined with the fact that an
 
 ### Raw Strength 
 
-This catch-all category includes cards which are much more powerful than the alternatives and have a huge (but not necessarily fun) effect on gameplay. The bix X spells are notable for there ability to kill everyone from 40 life for much less mana than the alternatives. The cheap wheels are easy to abuse and incidentally disruptive to gameplay by resetting everyone's hands. The Eldrazi titans limit deck variety by frequently being the best "big fattie" options regardless of color identity.
+This catch-all category includes cards which are much more powerful than the alternatives and have a huge (but not necessarily fun) effect on gameplay. The big X spells are notable for there ability to kill everyone from 40 life for much less mana than the alternatives. The cheap wheels are easy to abuse and incidentally disruptive to gameplay by resetting everyone's hands. The Eldrazi titans limit deck variety by frequently being the best "big fattie" options regardless of color identity.
 
 - Torment of Hailfire
 - Crackle with Power
